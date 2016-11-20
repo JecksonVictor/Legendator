@@ -6,21 +6,23 @@
 	Caso queria recuar mais de um minuto, basta executar novamente o programa, passando o arquivo criado por parâmetro.
 
 **Instruções:**  
-	*Windows: *  
+
+	Windows:  
 		1. Abra seu executável  
 		2. Digite o nome do seu arquivo .srt  
 		3. Digite quantos segundos você quer recuar a legenda  
 		4. Tecle enter && Enjoy  
 
-	*Linux: *  
+	Linux:  
 		1. Abra o terminal na pasta onde está seu Legendator  
 		2. Digite "./Legendator" para executar  
-		3. Passe os dois parâmetros separados por um espaço. O primeiro é o nome da sua legenda e o segundo são quantos segundos você quer recuar a legenda  
+		3. Passe os dois parâmetros separados por um espaço.
+			O primeiro é o nome da sua legenda e o segundo são quantos segundos você quer recuar a legenda  
 		4. Tecle enter && Enjoy  
 	
 
 **Downloads**  
-	[Windows: ](https://github.com/JecksonVictor/Legendator/raw/master/Legendator%20-%20Windows)
+	[Windows: ](https://github.com/JecksonVictor/Legendator/raw/master/Legendator%20-%20Windows)  
 	[Linux: ](https://github.com/JecksonVictor/Legendator/raw/master/Legendator)
 
 **Criado por**  
