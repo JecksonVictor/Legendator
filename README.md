@@ -11,6 +11,7 @@
 		2. Digite o nome do seu arquivo .srt  
 		3. Digite quantos segundos você quer recuar a legenda  
 		4. Tecle enter && Enjoy  
+
 	*Linux: *  
 		1. Abra o terminal na pasta onde está seu Legendator  
 		2. Digite "./Legendator" para executar  
@@ -19,10 +20,11 @@
 	
 
 **Downloads**  
-	*Windows: *  
-	*[Linux: ](https://github.com/JecksonVictor/Legendator/raw/master/Legendator)*  
+	[Windows: ](https://github.com/JecksonVictor/Legendator/raw/master/Legendator%20-%20Windows)
+	[Linux: ](https://github.com/JecksonVictor/Legendator/raw/master/Legendator)
 
 **Criado por**  
 	Jeckson Victor. 2016.  
 	Código livre para cópia.  
+	Special Thanks (https://github.com/NNeto) << Não fez muita coisa, mas sou educado de por o nome dele.
 .	
